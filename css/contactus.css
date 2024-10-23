@@ -1,0 +1,10 @@
+body{
+    background-color: blueviolet;
+}
+#div1{
+    margin: auto;
+    background-color: white;
+}
+#div1 h1{
+    color: blueviolet;
+}

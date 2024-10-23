@@ -1,0 +1,15 @@
+table{
+    border-radius: 2px;
+}
+img{
+    width: 120px;
+    height: 100px;
+}
+table, th,td{
+      border: 2px double black;
+      border-collapse: collapse;
+    }
+    table{
+      width: 70%;
+      height: 300px;
+    }
